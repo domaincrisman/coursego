@@ -201,7 +201,7 @@ GEM
     multi_json (1.15.0)
     multi_xml (0.6.0)
     multipart-post (2.1.1)
-    nio4r (2.5.4)
+    nio4r (2.5.7)
     nokogiri (1.11.5)
 >>>>>>> 75636208ebe4ca1ef7150bea9755ca8144aa03dc
       mini_portile2 (~> 2.5.0)
@@ -430,7 +430,7 @@ DEPENDENCIES
   pagy
   pg (>= 0.18, < 2.0)
   public_activity
-  puma (~> 4.1)
+  puma (~> 4.3)
   pundit
   rails (~> 6.0.3.4)
   rails-erd
